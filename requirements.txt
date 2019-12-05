@@ -4,3 +4,6 @@ pandas
 pillow
 keras
 tensorflow-gpu
+scikit-learn
+opencv-python
+
