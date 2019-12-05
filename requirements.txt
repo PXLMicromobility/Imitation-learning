@@ -1,0 +1,6 @@
+zipfile
+numpy
+pandas
+pillow
+keras
+tensorflow-gpu
